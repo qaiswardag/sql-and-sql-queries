@@ -1,0 +1,14 @@
+-- DATE
+-- STORES Date WITHOUT Time
+-- FORMAT: YYYY-MM-DD
+-- USE CASES: Birthday
+
+-- TIME
+-- STORES Time WITHOUT Date
+-- FORMAT: HH:MM:SS
+-- USE CASES: Rare
+
+-- DATETIME
+-- STORES Date AND Time
+-- FORMAT: YYYY-MM-DD HH:MM:SS
+-- USE CASES: last updated etc.
