@@ -4,7 +4,7 @@ node_modules
 .htaccess
 
 # Editor directories and files
-idea
+.idea
 .vscode
 *.suo
 *.ntvs*
