@@ -8,8 +8,11 @@
     <file url="file://$PROJECT_DIR$/crud/delete.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/crud/read.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/crud/update.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/string-functions/char-length.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/string-functions/lower.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/string-functions/replace.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/string-functions/substring.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/string-functions/upper.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/test.sql" dialect="GenericSQL" />
   </component>
 </project>
