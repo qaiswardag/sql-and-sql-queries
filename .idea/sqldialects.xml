@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/alter-table.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/create-tables.sql" dialect="MariaDB" />
-    <file url="file://$PROJECT_DIR$/delete-tables.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/insert-into-tables.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/rename-table.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/select.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/alter/add.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/alter/delete.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/alter/modify.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/crud/create.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/crud/delete.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/crud/read.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/crud/update.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/string-functions/replace.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/string-functions/substring.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/test.sql" dialect="GenericSQL" />
   </component>
 </project>

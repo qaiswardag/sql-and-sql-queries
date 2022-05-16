@@ -1,1 +1,2 @@
-SELECT * FROM cats;
+USE bookshop;
+SELECT * FROM books;
