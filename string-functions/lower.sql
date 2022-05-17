@@ -1,2 +1,3 @@
 USE bookshop;
-SELECT LOWER(title) FROM books;
+SELECT LOWER(title)
+FROM books;

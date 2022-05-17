@@ -3,15 +3,14 @@ USE bookshop;
 SELECT author_fname,
        author_lname,
        Min(released_year)
-FROM   books
-GROUP  BY author_lname,
-          author_fname;
+FROM books
+GROUP BY author_lname,
+         author_fname;
 
-SELECT
-    author_fname,
-    author_lname,
+SELECT author_fname,
+       author_lname,
        released_year,
-    Max(pages)
+       Max(pages)
 FROM books
 GROUP BY author_lname,
          author_fname;

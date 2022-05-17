@@ -7,4 +7,6 @@ USE bookshop;
 # SELECT title, author_lname FROM books GROUP BY author_lname;
 
 # count how many books each author has written
-SELECT author_lname, COUNT(*) AS books FROM books GROUP BY author_lname;
+SELECT author_lname, COUNT(*) AS books
+FROM books
+GROUP BY author_lname;

@@ -1,2 +1,3 @@
 USE bookshop;
-SELECT UPPER(title) FROM books;
+SELECT UPPER(title)
+FROM books;

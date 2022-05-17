@@ -10,4 +10,6 @@ USE bookshop;
 #         author_lname='Smith';
 
 # IN makes it much easier
-SELECT * FROM books WHERE author_lname IN ('Carver', 'Lahiri', 'Smith')
+SELECT *
+FROM books
+WHERE author_lname IN ('Carver', 'Lahiri', 'Smith')

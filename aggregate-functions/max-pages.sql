@@ -1,2 +1,5 @@
 USE bookshop;
-SELECT * FROM books ORDER BY pages DESC LIMIT 1;
+SELECT *
+FROM books
+ORDER BY pages DESC
+LIMIT 1;
